@@ -117,24 +117,86 @@ SYSTEM READY. WAITING FOR INPUT...
 
 <br>
 
-<!-- Featured Project Showcase: activetheory.net -->
-<h2 align="center">⚡ <samp>FEATURED_SYSTEMS_RESEARCH // ACTIVE_ENGINE</samp> ⚡</h2>
+<!-- Featured Project Showcase: 4-Tier Elite Research Grid -->
+<h2 align="center">⚡ <samp>ELITE_RESEARCH_SHOWCASE // ACTIVE_DEPLOYMENTS</samp> ⚡</h2>
+
+<table width="100%" style="border: 0px solid transparent; border-collapse: collapse;">
+<tr>
+<td width="50%" valign="top" style="border: 1px solid #1E293B; padding: 14px; background: #0A101F; border-radius: 8px;">
+
 <div align="center">
   <a href="https://github.com/DDW-X/activetheory.net" target="_blank">
-    <img width="98%" src="https://github-readme-stats-three-hazel-51.vercel.app/api/pin/?username=DDW-X&repo=activetheory.net&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=1E293B&show_owner=true" alt="Active Theory Engine Systems Analysis" />
+    <img width="100%" src="https://github-readme-stats-three-hazel-51.vercel.app/api/pin/?username=DDW-X&repo=activetheory.net&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=1E293B&show_owner=false" alt="activetheory.net" />
   </a>
   <br><br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/ARCHITECTURAL-REVERSE__ENGINEERING-0E172A?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" />
-    <img src="https://img.shields.io/badge/GRAPHICS-WEBGL2__%26__GLSL-0E172A?style=for-the-badge&logo=opengl&logoColor=22D3EE&labelColor=0A101F" />
-    <img src="https://img.shields.io/badge/COMPUTE-GPGPU__FBO__PINGPONG-0E172A?style=for-the-badge&logo=matrix&logoColor=10B981&labelColor=0A101F" />
-    <img src="https://img.shields.io/badge/SIMULATION-NAVIER__STOKES-0E172A?style=for-the-badge&logo=scipy&logoColor=A78BFA&labelColor=0A101F" />
-    <img src="https://img.shields.io/badge/RUNTIME-ZERO__GC__ALLOCATION-0E172A?style=for-the-badge&logo=v8&logoColor=22D3EE&labelColor=0A101F" />
-  </p>
-  <p align="center" style="font-family: monospace; color: #94A3B8;">
-    <b>[+] Systems Analysis:</b> 1:1 End-to-end architectural reverse engineering, GPGPU compute systems, and zero-allocation WebGL runtime deep-dive of the Active Theory engine.
-  </p>
+  <img src="https://img.shields.io/badge/DOMAIN-GRAPHICS__%26__GPGPU-0E172A?style=for-the-badge&logo=opengl&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/STACK-WEBGL2__%2F%2F__GLSL-0E172A?style=for-the-badge&logo=threedotjs&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/FOCUS-ZERO--GC__RUNTIME-0E172A?style=for-the-badge&logo=v8&logoColor=10B981&labelColor=0A101F" />
+  <br><br>
+  <div align="left" style="font-family: monospace; font-size: 13px; color: #94A3B8;">
+    <b>[+] Systems Analysis:</b> 1:1 End-to-end architectural reverse engineering, GPGPU compute systems, Eulerian fluid dynamics, and zero-allocation WebGL runtime deep-dive of the Active Theory engine.
+  </div>
 </div>
+
+</td>
+
+<td width="50%" valign="top" style="border: 1px solid #1E293B; padding: 14px; background: #0A101F; border-radius: 8px;">
+
+<div align="center">
+  <a href="https://github.com/DDW-X/abyssal-watcher" target="_blank">
+    <img width="100%" src="https://github-readme-stats-three-hazel-51.vercel.app/api/pin/?username=DDW-X&repo=abyssal-watcher&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=1E293B&show_owner=false" alt="abyssal-watcher" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/DOMAIN-KERNEL__DEFENSE-0E172A?style=for-the-badge&logo=rust&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/STACK-RUST__%2F%2F__RING--0-0E172A?style=for-the-badge&logo=windows&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/FOCUS-KERNEL__TELEMETRY-0E172A?style=for-the-badge&logo=target&logoColor=10B981&labelColor=0A101F" />
+  <br><br>
+  <div align="left" style="font-family: monospace; font-size: 13px; color: #94A3B8;">
+    <b>[+] Threat Detection:</b> STUXNET-resistant threat detection core in Rust featuring real-time ring-0 hooking, deep kernel telemetry, dynamic cryptography, and SIEM event streaming.
+  </div>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" style="border: 1px solid #1E293B; padding: 14px; background: #0A101F; border-radius: 8px;">
+
+<div align="center">
+  <a href="https://github.com/DDW-X/WebGPU-Stress-PoC" target="_blank">
+    <img width="100%" src="https://github-readme-stats-three-hazel-51.vercel.app/api/pin/?username=DDW-X&repo=WebGPU-Stress-PoC&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=1E293B&show_owner=false" alt="WebGPU-Stress-PoC" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/DOMAIN-GPU__COMPUTE-0E172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/STACK-WEBGPU__%2F%2F__WGSL-0E172A?style=for-the-badge&logo=w3c&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/FOCUS-STRESS__ANALYSIS-0E172A?style=for-the-badge&logo=speedtest&logoColor=10B981&labelColor=0A101F" />
+  <br><br>
+  <div align="left" style="font-family: monospace; font-size: 13px; color: #94A3B8;">
+    <b>[+] Hardware Stress:</b> Next-generation WebGPU compute shader pipeline for GPU hardware stress analysis, compute shader saturation testing, and zero-overhead memory bandwidth benchmarking.
+  </div>
+</div>
+
+</td>
+
+<td width="50%" valign="top" style="border: 1px solid #1E293B; padding: 14px; background: #0A101F; border-radius: 8px;">
+
+<div align="center">
+  <a href="https://github.com/DDW-X/awesome-agent-skills" target="_blank">
+    <img width="100%" src="https://github-readme-stats-three-hazel-51.vercel.app/api/pin/?username=DDW-X&repo=awesome-agent-skills&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=1E293B&show_owner=false" alt="awesome-agent-skills" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/DOMAIN-AGENTIC__AI-0E172A?style=for-the-badge&logo=openai&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/STACK-PYTHON__%2F%2F__MCP-0E172A?style=for-the-badge&logo=python&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/FOCUS-COGNITIVE__SKILLS-0E172A?style=for-the-badge&logo=probot&logoColor=10B981&labelColor=0A101F" />
+  <br><br>
+  <div align="left" style="font-family: monospace; font-size: 13px; color: #94A3B8;">
+    <b>[+] Agent Knowledge:</b> Cross-IDE cognitive agent knowledge base transforming leaked frontier prompts into structured, token-efficient Agent Skills, MCP servers, and offensive tooling pipelines.
+  </div>
+</div>
+
+</td>
+</tr>
+</table>
 
 <br>
 
