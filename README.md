@@ -10,7 +10,7 @@
 <br><br>
 
 <a href="https://github.com/DDW-X">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=22D3EE&background=00000000&center=true&vCenter=true&width=950&lines=WARNING%3A+ACCESSING+RESTRICTED+RING-0+KERNEL+MEMORY...;IDENTITY_CONFIRMED%3A+DDW-X;SPECIALTY%3A+CNO+ARCHITECT+%7C+HYPERVISORS+%7C+DRIVER+DEV;TARGET%3A+HARDENED+SYSTEMS+%26+ZERO-DAY+RESEARCH;INITIATING_PROTOCOL%3A+TOTAL_CONTROL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=22D3EE&background=00000000&center=true&vCenter=true&width=950&lines=WARNING%3A+ACCESSING+RESTRICTED+RING-0+KERNEL+MEMORY...;IDENTITY_CONFIRMED%3A+DDW-X;SPECIALTY%3A+CNO+ARCHITECT+%7C+HYPERVISORS+%7C+DRIVER+DEV;TARGET%3A+HARDENED+SYSTEMS+%26+ZERO-DAY+RESEARCH;INITIATING_PROTOCOL%3A+TOTAL_CONTROL" alt="Typing SVG" />
 </a>
 
 <br>
@@ -36,11 +36,12 @@
 
 <br>
 
-<details>
-<summary><b>📺 SYSTEM BOOT LOG (Click to Open)</b></summary>
+<details open>
+<summary><b>📺 SYSTEM BOOT LOG (Click to Toggle)</b></summary>
+
 <br>
-<pre>
-<code style="color: #39ff14;">
+
+```console
 root@DDW-X:~# ./init_profile.sh
 [+] Loading kernel modules...                   [ OK ]
 [+] Mounting ring-0 hypervisor hooks...         [ OK ]
@@ -55,8 +56,8 @@ root@DDW-X:~# ./init_profile.sh
 [+] Status: Architecting Fundamental Tools & CNO Projects...
 ---------------------------------------------------
 SYSTEM READY. WAITING FOR INPUT...
-</code>
-</pre>
+```
+
 </details>
 
 <br>
@@ -66,7 +67,7 @@ SYSTEM READY. WAITING FOR INPUT...
 <td width="38%" valign="top" align="center">
 
 <h3 align="center">💀 <samp>OPERATOR_ID</samp></h3>
-<img src="https://media.giphy.com/media/QfpNwM10t2Y4R77N5B/giphy.gif" width="220px" style="border-radius: 50%; border: 3px solid #22D3EE; box-shadow: 0 0 20px #22D3EE;">
+<img src="https://github.com/DDW-X.png" width="220px" style="border-radius: 50%; border: 3px solid #22D3EE; box-shadow: 0 0 20px #22D3EE;" alt="OPERATOR_ID: DDW-X">
 
 <br><br>
 
@@ -85,15 +86,15 @@ SYSTEM READY. WAITING FOR INPUT...
 
 <h3 align="center">📡 <samp>ENCRYPTED_CHANNELS</samp></h3>
 <a href="https://t.me/CONTROLSERVER" target="_blank">
-  <img src="https://img.shields.io/badge/TELEGRAM-CONTROLSERVER-0A101F?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" width="95%">
+  <img src="https://img.shields.io/badge/TELEGRAM-CONTROLSERVER-0E172A?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" width="95%">
 </a>
 <br><br>
 <a href="mailto:ddw.x.dev@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-DIRECT_UPLINK-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" width="95%">
+  <img src="https://img.shields.io/badge/EMAIL-DIRECT_UPLINK-0E172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" width="95%">
 </a>
 <br><br>
 <a href="https://github.com/DDW-X" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-SOURCE_ARCHIVE-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" width="95%">
+  <img src="https://img.shields.io/badge/GITHUB-SOURCE_ARCHIVE-0E172A?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" width="95%">
 </a>
 
 </td>
@@ -104,10 +105,10 @@ SYSTEM READY. WAITING FOR INPUT...
 
 <!-- Phase 2: Themed Stats & Streak Cards -->
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=DDW-X&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=DDW-X&theme=tokyonight&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/><br/>
-  <img width="49%" src="https://github-readme-stats-three-hazel-51.vercel.app/api?username=DDW-X&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://github-readme-stats-three-hazel-51.vercel.app/api/top-langs/?username=DDW-X&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats-three-hazel-51.vercel.app/api?username=DDW-X&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-three-hazel-51.vercel.app/api/top-langs/?username=DDW-X&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
 </td>
@@ -116,40 +117,68 @@ SYSTEM READY. WAITING FOR INPUT...
 
 <br>
 
-<h2 align="center">🛠 <samp>WEAPONRY_AND_ARSENAL</samp> 🛠</h2>
+<!-- Featured Project Showcase: activetheory.net -->
+<h2 align="center">⚡ <samp>FEATURED_SYSTEMS_RESEARCH // ACTIVE_ENGINE</samp> ⚡</h2>
 <div align="center">
-<p><b>[+] LOW LEVEL & KERNEL DEVELOPMENT</b></p>
-<img src="https://img.shields.io/badge/ASSEMBLY-x86_x64_ARM-555555?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/C-KERNEL_KMDF-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-SYSTEMS-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/RUST-MEMORY_SAFETY-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/WINDOWS-WDK_KMDF-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-KERNEL_API-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<br><br>
-
-<p><b>[+] OFFENSIVE TOOLS & REVERSE ENGINEERING</b></p>
-<img src="https://img.shields.io/badge/GHIDRA-DECOMPILER-00FF00?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/IDA_PRO-BINARY_ANALYSIS-333333?style=for-the-badge&logo=hexo&logoColor=white" />
-<img src="https://img.shields.io/badge/WINDBG-KERNEL_DEBUG-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/SYSINTERNALS-DIAGNOSTICS-0A101F?style=for-the-badge&logo=powershell&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/QEMU-EMULATION-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
-<img src="https://img.shields.io/badge/WIRESHARK-PACKET_ANALYSIS-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-
-<br><br>
-
-<p><b>[+] SCRIPTING, AUTOMATION & TOOLING</b></p>
-<img src="https://img.shields.io/badge/PYTHON-AUTOMATION-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/BASH-SHELL_ENGINEERING-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/DOCKER-CONTAINERS-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-VCS-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://github.com/DDW-X/activetheory.net" target="_blank">
+    <img width="98%" src="https://github-readme-stats-three-hazel-51.vercel.app/api/pin/?username=DDW-X&repo=activetheory.net&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=1E293B&show_owner=true" alt="Active Theory Engine Systems Analysis" />
+  </a>
+  <br><br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/ARCHITECTURAL-REVERSE__ENGINEERING-0E172A?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" />
+    <img src="https://img.shields.io/badge/GRAPHICS-WEBGL2__%26__GLSL-0E172A?style=for-the-badge&logo=opengl&logoColor=22D3EE&labelColor=0A101F" />
+    <img src="https://img.shields.io/badge/COMPUTE-GPGPU__FBO__PINGPONG-0E172A?style=for-the-badge&logo=matrix&logoColor=10B981&labelColor=0A101F" />
+    <img src="https://img.shields.io/badge/SIMULATION-NAVIER__STOKES-0E172A?style=for-the-badge&logo=scipy&logoColor=A78BFA&labelColor=0A101F" />
+    <img src="https://img.shields.io/badge/RUNTIME-ZERO__GC__ALLOCATION-0E172A?style=for-the-badge&logo=v8&logoColor=22D3EE&labelColor=0A101F" />
+  </p>
+  <p align="center" style="font-family: monospace; color: #94A3B8;">
+    <b>[+] Systems Analysis:</b> 1:1 End-to-end architectural reverse engineering, GPGPU compute systems, and zero-allocation WebGL runtime deep-dive of the Active Theory engine.
+  </p>
 </div>
 
 <br>
 
-<h2 align="center">📉 <samp>COMMIT_FREQUENCY_WAVEFORM</samp></h2>
+<h2 align="center">🛠 <samp>WEAPONRY_AND_ARSENAL</samp> 🛠</h2>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DDW-X&theme=react-dark&bg_color=0A101F&hide_border=true&color=22D3EE&area=true" width="100%" />
+<p><b>[+] KERNEL ARCHITECTURE & LOW-LEVEL SYSTEMS</b></p>
+<img src="https://img.shields.io/badge/C-KERNEL__KMDF-0E172A?style=for-the-badge&logo=c&logoColor=22D3EE&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/C%2B%2B-SYSTEMS__PROGRAMMING-0E172A?style=for-the-badge&logo=cplusplus&logoColor=22D3EE&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/ASSEMBLY-x86__64__ARM-0E172A?style=for-the-badge&logo=intel&logoColor=22D3EE&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/RUST-SYSTEMS__SECURITY-0E172A?style=for-the-badge&logo=rust&logoColor=22D3EE&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/WINDOWS-WDK__KMDF-0E172A?style=for-the-badge&logo=windows&logoColor=22D3EE&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/LINUX-KERNEL__INTERNAL-0E172A?style=for-the-badge&logo=linux&logoColor=22D3EE&labelColor=0A101F" />
+
+<br><br>
+
+<p><b>[+] GRAPHICS RUNTIME & GPGPU COMPUTE</b></p>
+<img src="https://img.shields.io/badge/WEBGL%2FGLSL-GPGPU__COMPUTE-0E172A?style=for-the-badge&logo=opengl&logoColor=22D3EE&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/THREE.JS-3D__PIPELINES-0E172A?style=for-the-badge&logo=threedotjs&logoColor=22D3EE&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/SIMULATION-FLUID__PARTICLES-0E172A?style=for-the-badge&logo=probot&logoColor=22D3EE&labelColor=0A101F" />
+
+<br><br>
+
+<p><b>[+] OFFENSIVE CYBER OPERATIONS & REVERSE ENGINEERING</b></p>
+<img src="https://img.shields.io/badge/GHIDRA-REVERSE__ENGINEERING-0E172A?style=for-the-badge&logo=linuxfoundation&logoColor=10B981&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/IDA__PRO-BINARY__DISASSEMBLY-0E172A?style=for-the-badge&logo=target&logoColor=10B981&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/WINDBG-KERNEL__DEBUGGING-0E172A?style=for-the-badge&logo=windows-terminal&logoColor=10B981&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/SYSINTERNALS-SYSTEM__DIAGNOSTICS-0E172A?style=for-the-badge&logo=powershell&logoColor=10B981&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/QEMU-HARDWARE__EMULATION-0E172A?style=for-the-badge&logo=qemu&logoColor=10B981&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/WIRESHARK-NETWORK__CNO-0E172A?style=for-the-badge&logo=wireshark&logoColor=10B981&labelColor=0A101F" />
+
+<br><br>
+
+<p><b>[+] AUTOMATION, C2 & INFRASTRUCTURE</b></p>
+<img src="https://img.shields.io/badge/PYTHON-OFFENSIVE__AUTOMATION-0E172A?style=for-the-badge&logo=python&logoColor=A78BFA&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/BASH-SHELL__EXPLOITATION-0E172A?style=for-the-badge&logo=gnu-bash&logoColor=A78BFA&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/DOCKER-SANDBOX__ISOLATION-0E172A?style=for-the-badge&logo=docker&logoColor=A78BFA&labelColor=0A101F" />
+<img src="https://img.shields.io/badge/GIT-VCS__INFRA-0E172A?style=for-the-badge&logo=git&logoColor=A78BFA&labelColor=0A101F" />
+</div>
+
+<br>
+
+<h2 align="center">📉 <samp>SYSTEM_TELEMETRY_PROFILE</samp></h2>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DDW-X&theme=tokyonight" width="100%" />
 </div>
 
 <br>
@@ -169,7 +198,7 @@ SYSTEM READY. WAITING FOR INPUT...
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
 <br><br>
-<img src="https://media.giphy.com/media/26tn33aiU1iGPn5aU/giphy.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:0891B2,100:22D3EE&height=120&section=footer&text=RING-0%20INTEGRITY%20VERIFIED&fontSize=20&fontColor=22D3EE&fontAlignY=65" width="100%">
 <br>
 <p style="color: #22D3EE; font-family: monospace; font-weight: bold;">[!] SESSION TERMINATED. RING-0 INTEGRITY VERIFIED.</p>
 </div>
