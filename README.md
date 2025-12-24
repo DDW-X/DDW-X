@@ -1,85 +1,134 @@
 <div align="center">
+ 
+  <!-- Header Banner: Glitch/Matrix Effect -->
+  <img src="https://i.pinimg.com/originals/e8/50/78/e8507850434311894d07d17739502b4d.gif" width="100%" height="150px" style="object-fit: cover;">
 
-<!-- Header Animation -->
-<a href="https://github.com/DDW-X">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=435&lines=DDW-X;Cyber+Security+Researcher;Malware+Analyst+%7C+Reverse+Engineer;Low-Level+Driver+Developer;Malbolge+%26+Assembly+Expert" alt="Typing SVG" />
-</a>
+  <br>
 
-<br>
+  <!-- Typing SVG: Terminal Style -->
+  <a href="https://github.com/DDW-X">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=USER%3A+DDW-X;STATUS%3A+KERNEL+ACCESS+GRANTED;MISSION%3A+MALWARE+ANALYSIS+%26+REVERSE+ENG;TARGET%3A+LOW-LEVEL+SYSTEMS+%26+DRIVERS;LANG%3A+MALBOLGE+%7C+ASSEMBLY+%7C+RUST+%7C+C" alt="Typing SVG" />
+  </a>
 
-<h3><code>&lt;Operating in the Kernel Space /&gt;</code></h3>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+  <!-- GitHub Trophies (The Crowded Part) -->
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DDW-X&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" />
+  </a>
+  <br><br>
 
-<br>
+</div>
 
-<!-- About Me -->
-<h2>Identity Verification: <span style="color: #39FF14;">Verified</span></h2>
-
-<p align="center" style="max-width: 800px;">
-  I am <b>DDW-X</b>, a specialist in offensive security and low-level optimization. My expertise lies where software meets hardware. From crafting custom drivers in <b>C/Rust</b> to writing esoteric code in <b>Malbolge</b>, I deconstruct and reconstruct digital systems.
-</p>
-
-<p align="center">
-  🔭 <b>Focus:</b> Advanced Malware Analysis & Zero-Day Exploits<br>
-  💀 <b>Signature:</b> Social Engineering & Reverse Engineering
-</p>
-
-<br>
-
-<!-- Arsenal -->
-<h2>The Arsenal</h2>
-
-<!-- Low Level -->
-<img src="https://img.shields.io/badge/Assembly-ASM-555555?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-Safe_Memory-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/C-Kernel_Dev-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-Standard-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-<br><br>
-
-<!-- Esoteric & Functional -->
-<img src="https://img.shields.io/badge/Malbolge-8th_Circle_of_Hell-800000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Haskell-Functional-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
-
-<br><br>
-
-<!-- Scripting & Network -->
-<img src="https://img.shields.io/badge/Python-Exploits-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Java-Enterprise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Network-Security-red?style=for-the-badge&logo=wireshark&logoColor=white" />
-
-<br><br>
-
-<!-- Live Stats -->
-<h2>Live Intelligence</h2>
-
-<a href="https://github.com/DDW-X">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DDW-X&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDW-X&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&lang_count=8" />
-</a>
-
-<br><br>
-
-<!-- Snake Animation (Fixed Links) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DDW-X/DDW-X/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DDW-X/DDW-X/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DDW-X/DDW-X/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+<!-- Main Layout Table: Dense Information -->
+<table align="center" width="100%" border="0">
+  <tr>
+    <!-- Left Column: Bio & Identity -->
+    <td width="50%" valign="top">
+      <h3 align="center">💀 <samp>Operator Profile</samp></h3>
+      <br>
+      <blockquote>
+        <p><b>Name:</b> DDW-X</p>
+        <p><b>Class:</b> Cyber Security Researcher</p>
+        <p><b>Spec:</b> Malware Analysis / Driver Dev</p>
+        <p><b>OS:</b> Arch Linux / Custom Kernels</p>
+        <p><b>Status:</b> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="15"> Compiling Exploit...</p>
+      </blockquote>
+      <br>
+      <div align="center">
+        <!-- Social Buttons -->
+        <a href="https://t.me/YOUR_ID">
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+        <br><br>
+        <a href="mailto:email@example.com">
+            <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    
+    <!-- Right Column: Animated Terminal/Activity -->
+    <td width="50%" valign="top">
+       <h3 align="center">💻 <samp>System Activity</samp></h3>
+       <div align="center">
+         <!-- Activity Graph (Commit visualizer) -->
+         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDW-X&theme=react-dark&bg_color=0D1117&hide_border=true&color=00FF00" width="100%" />
+       </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- Contact -->
-<a href="https://t.me/YOUR_ID">
-<img src="https://img.shields.io/badge/Telegram-Encrypted-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:email@example.com">
-<img src="https://img.shields.io/badge/ProtonMail-Secure-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
+<!-- Tech Stack Section: Heavy Badge Usage -->
+<div align="center">
+  <h2>🛠 <samp>The Heavy Arsenal</samp> 🛠</h2>
+  
+  <!-- Table for organized chaos -->
+  <table>
+    <tr>
+      <td align="center"><b>💀 Low-Level & Malware</b></td>
+      <td align="center"><b>🛡️ Security & Pentest</b></td>
+      <td align="center"><b>⚡ Modern & Scripting</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Assembly-Intel_x86-555555?style=flat-square&logo=intel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Malbolge-Esoteric-800000?style=flat-square&logo=hackthebox&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-Kernel-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+        <img src="https://img.shields.io/badge/C++-System-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-Unsafe-000000?style=flat-square&logo=rust&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Wireshark-Sniffing-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kali_Linux-Dragon-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ghidra-Reverse-green?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Metasploit-Exploit-000000?style=flat-square&logo=metasploit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tor-Anonymity-7D4698?style=flat-square&logo=tor-browser&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=yellow" />
+        <img src="https://img.shields.io/badge/Haskell-Functional-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-Enterprise-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-Network-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br>
+
+<!-- Stats Grid: 3 Massive Cards -->
+<div align="center">
+  <h2>📊 <samp>Intelligence Report</samp></h2>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=DDW-X&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDW-X&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&lang_count=8" height="180" />
+  </p>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDW-X&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="80%" />
+</div>
+
+<br>
+
+<!-- The Snake Animation (Full Width) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DDW-X/DDW-X/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DDW-X/DDW-X/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DDW-X/DDW-X/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<!-- Footer: Final Glitch -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=SYSTEM+SHUTDOWN...;ENCRYPTING+LOGS...;GOODBYE." alt="Typing SVG" />
+  <br>
+  <img src="https://media.giphy.com/media/L0rh016g8jlfDqI8xX/giphy.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.5;">
 </div>
