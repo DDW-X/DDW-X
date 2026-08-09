@@ -2,9 +2,9 @@
 
 <!-- Animated Banner Pipeline (Theme-Aware Dark/Light SVG) -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DDW-X/DDW-X/main/dark.svg?v=1">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DDW-X/DDW-X/main/light.svg?v=1">
-<img alt="DDW-X // SYSTEM.INFO" src="https://raw.githubusercontent.com/DDW-X/DDW-X/main/light.svg?v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="DDW-X // SYSTEM.INFO" src="./light.svg">
 </picture>
 
 <br><br>
